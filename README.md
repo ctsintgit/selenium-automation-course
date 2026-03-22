@@ -38,50 +38,50 @@ No prior Selenium or test automation experience is required.
 | Day | Topic |
 |-----|-------|
 | [Day 01](Week1/Day01-Setup-And-First-Script.md) | Setup and First Script |
-| [Day 02](Week1/Day02-Locators-Id-Name-Class.md) | Locators: ID, Name, Class |
-| [Day 03](Week1/Day03-Locators-CSS-Selectors.md) | Locators: CSS Selectors |
-| [Day 04](Week1/Day04-Locators-XPath.md) | Locators: XPath |
-| [Day 05](Week1/Day05-Browser-Navigation.md) | Browser Navigation |
-| [Day 06](Week1/Day06-Interacting-With-Elements.md) | Interacting with Elements |
+| [Day 02](Week1/Day02-Locators-Basic.md) | Locators: ID, Name, ClassName, TagName |
+| [Day 03](Week1/Day03-XPath.md) | XPath (Absolute vs Relative) |
+| [Day 04](Week1/Day04-CSS-Selectors.md) | CSS Selectors |
+| [Day 05](Week1/Day05-Browser-Actions.md) | Browser Actions: Click, SendKeys, Clear, Submit |
+| [Day 06](Week1/Day06-Navigation.md) | Navigation: Back, Forward, Refresh, URL, Title |
 | [Day 07](Week1/Day07-Dropdowns-Checkboxes-Radio.md) | Dropdowns, Checkboxes, and Radio Buttons |
 
-### Week 2 -- Intermediate Techniques
+### Week 2 -- Synchronization & Complex UI
 
 | Day | Topic |
 |-----|-------|
 | [Day 08](Week2/Day08-Implicit-vs-Explicit-Wait.md) | Implicit vs. Explicit Wait |
-| [Day 09](Week2/Day09-Alerts-Popups.md) | Alerts and Popups |
-| [Day 10](Week2/Day10-Frames-iFrames.md) | Frames and iFrames |
-| [Day 11](Week2/Day11-Windows-Tabs.md) | Windows and Tabs |
-| [Day 12](Week2/Day12-Actions-Class.md) | Actions Class (Mouse and Keyboard) |
-| [Day 13](Week2/Day13-Screenshots-Visual-Debug.md) | Screenshots and Visual Debugging |
+| [Day 09](Week2/Day09-Fluent-Wait.md) | Fluent Wait and ExpectedConditions |
+| [Day 10](Week2/Day10-Alerts.md) | Alerts: Accept, Dismiss, GetText, SendKeys |
+| [Day 11](Week2/Day11-Frames.md) | Frames and iFrames |
+| [Day 12](Week2/Day12-Windows-Tabs.md) | Multiple Windows and Tabs |
+| [Day 13](Week2/Day13-Dynamic-Elements.md) | Dynamic Elements: AJAX, Lazy Loading, Stale Elements |
 | [Day 14](Week2/Day14-File-Upload-Download.md) | File Upload and Download |
 
-### Week 3 -- Frameworks and Patterns
+### Week 3 -- Test Framework & Page Object Model
 
 | Day | Topic |
 |-----|-------|
 | [Day 15](Week3/Day15-NUnit-PyTest-Setup.md) | NUnit / PyTest Setup |
-| [Day 16](Week3/Day16-Page-Object-Model.md) | Page Object Model (POM) |
-| [Day 17](Week3/Day17-Data-Driven-Testing.md) | Data-Driven Testing |
-| [Day 18](Week3/Day18-Cross-Browser-Testing.md) | Cross-Browser Testing |
-| [Day 19](Week3/Day19-Headless-Testing.md) | Headless Testing |
-| [Day 20](Week3/Day20-Parallel-Execution.md) | Parallel Execution |
+| [Day 16](Week3/Day16-Test-Lifecycle.md) | Test Lifecycle: Setup, Teardown, Fixtures |
+| [Day 17](Week3/Day17-Page-Object-Model.md) | Page Object Model (POM) |
+| [Day 18](Week3/Day18-Page-Factory.md) | Page Factory Pattern |
+| [Day 19](Week3/Day19-Config-Files.md) | Config Files: JSON/YAML for Environment-Driven Execution |
+| [Day 20](Week3/Day20-Data-Driven-Testing.md) | Data-Driven Testing |
 | [Day 21](Week3/Day21-Logging-Reporting.md) | Logging and Reporting |
 
-### Week 4 -- Advanced Topics and Final Project
+### Week 4 -- Advanced + Enterprise
 
 | Day | Topic |
 |-----|-------|
 | [Day 22](Week4/Day22-JavaScriptExecutor.md) | JavaScriptExecutor |
-| [Day 23](Week4/Day23-Selenium-Grid.md) | Selenium Grid |
-| [Day 24](Week4/Day24-API-Plus-UI-Testing.md) | API + UI Testing |
-| [Day 25](Week4/Day25-CI-CD-Integration.md) | CI/CD Integration |
-| [Day 26](Week4/Day26-Mobile-Web-Testing.md) | Mobile Web Testing |
-| [Day 27](Week4/Day27-Performance-Optimization.md) | Performance Optimization |
-| [Day 28](Week4/Day28-Debugging-Troubleshooting.md) | Debugging and Troubleshooting |
-| [Day 29](Week4/Day29-Best-Practices-Review.md) | Best Practices Review |
-| [Day 30](Week4/Day30-Final-Project.md) | Final Project |
+| [Day 23](Week4/Day23-Shadow-DOM.md) | Shadow DOM |
+| [Day 24](Week4/Day24-Screenshots.md) | Screenshots on Failure + Test Evidence |
+| [Day 25](Week4/Day25-Headless-Mode.md) | Headless Mode: Chrome and Firefox |
+| [Day 26](Week4/Day26-Selenium-Grid.md) | Selenium Grid: Hub/Node Architecture |
+| [Day 27](Week4/Day27-Parallel-Execution.md) | Parallel Execution: Multi-Browser, Multi-Thread |
+| [Day 28](Week4/Day28-CICD-Integration.md) | CI/CD Integration: GitHub Actions |
+| [Day 29](Week4/Day29-Framework-Finalization.md) | Framework Finalization: Structure and Conventions |
+| [Day 30](Week4/Day30-Final-Project.md) | Final Project: Complete E2E Framework |
 
 ### Reference Materials
 
